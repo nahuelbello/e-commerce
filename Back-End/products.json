@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Motherboard AM4 - Msi A520M-A PRO",
+    "description": "Motherboard Gama Media",
+    "code": "MOTHER-AMD-1",
+    "price": 263.53,
+    "status": true,
+    "stock": 33,
+    "category": "motherboard",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/38688_1.jpeg"
+  },
+  {
+    "title": "Motherboard AM4 - Asrock B550M HDV",
+    "description": "Motherboard Gama Media",
+    "code": "MOTHER-AMD-2",
+    "price": 284.21,
+    "status": false,
+    "stock": 21,
+    "category": "motherboard",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Motherboard-AM4-Asrock-B550M-HDV_44574_1.jpeg"
+  },
+  {
+    "title": "Motherboard AM4 - Msi B450M PRO-VDH MAX",
+    "description": "Motherboard Gama Start",
+    "code": "MOTHER-AMD-3",
+    "price": 310.48,
+    "status": true,
+    "stock": 36,
+    "category": "motherboard",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/37282_1.jpeg"
+  },
+  {
+    "title": "Procesador Amd Ryzen 3 4100 4.0 Ghz - AM4 Sin Gpu",
+    "description": "Procesador Gama Start Sin GPU",
+    "code": "MICRO-AMD-1",
+    "price": 280.56,
+    "status": true,
+    "stock": 22,
+    "category": "processor",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Procesador-Amd-Ryzen-3-4100-4-Ghz-AM4-Sin-Gpu_45281_1.jpeg"
+  },
+  {
+    "title": "Procesador Amd Ryzen 5 4600G 4.2 Ghz - AM4",
+    "description": "Procesador Gama Media con GPU",
+    "code": "MICRO-AMD-2",
+    "price": 348.52,
+    "status": true,
+    "stock": 45,
+    "category": "processor",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/procesador-cpu-ryzen_40368_1.jpeg"
+  },
+  {
+    "title": "Procesador Amd Ryzen 3 3200G 3.8 Ghz + Vega8 - AM4",
+    "description": "Procesador Gama Start con GPU",
+    "code": "MICRO-AMD-3",
+    "price": 245.67,
+    "status": true,
+    "stock": 22,
+    "category": "processor",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Procesador-Amd-Ryzen-3-4100-4-Ghz-AM4-Sin-Gpu_45281_1.jpeg"
+  },
+  {
+    "title": "Disco Solido Ssd 120Gb Gigabyte",
+    "description": "Disco Solido Gama Start",
+    "code": "SSD-1",
+    "price": 114.23,
+    "status": false,
+    "stock": 12,
+    "category": "ssd",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/35485_2.jpeg?v168"
+  },
+  {
+    "title": "Disco Solido Ssd 240Gb Crucial BX500",
+    "description": "Disco Solido Gama Media",
+    "code": "SSD-2",
+    "price": 153.22,
+    "status": true,
+    "stock": 24,
+    "category": "ssd",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/34450_2.jpeg"
+  },
+  {
+    "title": "Disco Solido Ssd 480Gb Pny CS900",
+    "description": "Disco Solido Gama Alta",
+    "code": "SSD-3",
+    "price": 210.99,
+    "status": true,
+    "stock": 31,
+    "category": "ssd",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Disco-Solido-Ssd-480Gb-Pny-CS900_44247_1.jpeg"
+  },
+  {
+    "title": "Placa De Video GeForce GT 1030 2Gb Gigabyte Low Profile DDR4",
+    "description": "Placa de Video Gama Start",
+    "code": "VGA-1",
+    "price": 343.37,
+    "status": true,
+    "stock": 34,
+    "category": "vga",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/40847_1.jpeg"
+  },
+  {
+    "title": "Placa De Video LHR GeForce RTX 3070 8Gb Asus Tuf Gaming Oc",
+    "description": "Placa de Video Gama Alta",
+    "code": "VGA-2",
+    "price": 954.13,
+    "status": true,
+    "stock": 26,
+    "category": "vga",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/placa-video-nvidia-rtx_41141_1.jpeg"
+  },
+  {
+    "title": "Placa De Video LHR GeForce RTX 3070 8Gb Asus Dual Oc V2s",
+    "description": "Placa de Video Gama Alta",
+    "code": "VGA-3",
+    "price": 1203.12,
+    "status": false,
+    "stock": 22,
+    "category": "vga",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/placa-video-nvidia-rtx_41141_1.jpeg"
+  },
+  {
+    "title": "TT95 Amd Ryzen 7 4750G - 16Gb - GT1030",
+    "description": "PC Gamer Gama Alta",
+    "code": "PC-AMD-1",
+    "price": 2442.11,
+    "status": true,
+    "stock": 32,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/35185_1.jpeg"
+  },
+  {
+    "title": "G5200 Intel Core i3 12100 - 8Gb - GT1030",
+    "description": "PC Gamer Gama Media",
+    "code": "PC-INTEL-1",
+    "price": 1923.86,
+    "status": true,
+    "stock": 28,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/40262_1.jpeg"
+  },
+  {
+    "title": "G5100 Intel Core i3 10105 - 16Gb - GT1030",
+    "description": "PC Gamer Gama Media",
+    "code": "PC-INTEL-2",
+    "price": 1653.71,
+    "status": true,
+    "stock": 21,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/40039_1.jpeg"
+  },
+  {
+    "title": "V8 Intel Core i5 10400 - 8Gb - 1Tb - KIT",
+    "description": "PC Gamer Gama Start",
+    "code": "PC-INTEL-3",
+    "price": 1345.67,
+    "status": true,
+    "stock": 26,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/37830_2.jpeg"
+  },
+  {
+    "title": " G5100 Intel Core i3 10100F - 16Gb - GT1030",
+    "description": "PC Gamer Gama Start",
+    "code": "PC-INTEL-4",
+    "price": 1185.47,
+    "status": true,
+    "stock": 18,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/40039_1.jpeg"
+  },
+  {
+    "title": "G5300 Intel Core i5 11600K - 16Gb - 480",
+    "description": "PC Gamer Gama Media",
+    "code": "PC-INTEL-5",
+    "price": 1666.88,
+    "status": false,
+    "stock": 19,
+    "category": "pc",
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/40298_2.jpeg"
+  }
+]
